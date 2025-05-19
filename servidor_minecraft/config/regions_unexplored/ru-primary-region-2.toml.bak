@@ -1,4 +1,4 @@
------------------RIVER_BIOMES-------------------- = {}
+-----------------PEAK_BIOMES-------------------- = {}
 
 #Config for Regions Unexplored primary region!
 #NOTICE: Make sure 'enable_custom_regions' is enabled in Common configs or this config will have no effect on generation!
@@ -176,18 +176,4 @@
 	neutral_slope_biome_variant = "regions_unexplored:pine_slopes"
 	warm_slope_biome_variant = "regions_unexplored:deciduous_forest"
 	hot_slope_biome_variant = "regions_unexplored:eucalyptus_forest"
-
-[-----------------PEAK_BIOMES--------------------]
-	#peak_biomes
-	icy_peak_biome = "minecraft:frozen_peaks"
-	cold_peak_biome = "minecraft:jagged_peaks"
-	neutral_peak_biome = "regions_unexplored:mountains"
-	warm_peak_biome = "minecraft:stony_peaks"
-	hot_peak_biome = "regions_unexplored:arid_mountains"
-	#peak_biomes_variant
-	icy_peak_biome_variant = "minecraft:jagged_peaks"
-	cold_peak_biome_variant = "regions_unexplored:mountains"
-	neutral_peak_biome_variant = "regions_unexplored:mountains"
-	warm_peak_biome_variant = "minecraft:stony_peaks"
-	hot_peak_biome_variant = "regions_unexplored:arid_mountains"
 
