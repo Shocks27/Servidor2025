@@ -1,4 +1,18 @@
 
+[-----------------SLOPE_BIOMES--------------------]
+	#slope_biomes
+	icy_slope_biome = "minecraft:snowy_slopes"
+	cold_slope_biome = "minecraft:grove"
+	neutral_slope_biome = "regions_unexplored:pine_slopes"
+	warm_slope_biome = "regions_unexplored:deciduous_forest"
+	hot_slope_biome = "regions_unexplored:eucalyptus_forest"
+	#slope_biomes_variant
+	icy_slope_biome_variant = "regions_unexplored:cold_deciduous_forest"
+	cold_slope_biome_variant = "regions_unexplored:pine_slopes"
+	neutral_slope_biome_variant = "regions_unexplored:pine_slopes"
+	warm_slope_biome_variant = "regions_unexplored:deciduous_forest"
+	hot_slope_biome_variant = "regions_unexplored:eucalyptus_forest"
+
 #Config for Regions Unexplored primary region!
 #NOTICE: Make sure 'enable_custom_regions' is enabled in Common configs or this config will have no effect on generation!
 #If you have custom regions enabled: to get future update biomes to spawn, you will either need to delete the config and let it regen, or add the new biomes manually.
@@ -161,20 +175,6 @@
 	hot_neutral = "regions_unexplored:saguaro_desert"
 	hot_wet = "regions_unexplored:eucalyptus_forest"
 	hot_humid = "regions_unexplored:eucalyptus_forest"
-
-[-----------------SLOPE_BIOMES--------------------]
-	#slope_biomes
-	icy_slope_biome = "minecraft:snowy_slopes"
-	cold_slope_biome = "minecraft:grove"
-	neutral_slope_biome = "regions_unexplored:pine_slopes"
-	warm_slope_biome = "regions_unexplored:deciduous_forest"
-	hot_slope_biome = "regions_unexplored:eucalyptus_forest"
-	#slope_biomes_variant
-	icy_slope_biome_variant = "regions_unexplored:cold_deciduous_forest"
-	cold_slope_biome_variant = "regions_unexplored:pine_slopes"
-	neutral_slope_biome_variant = "regions_unexplored:pine_slopes"
-	warm_slope_biome_variant = "regions_unexplored:deciduous_forest"
-	hot_slope_biome_variant = "regions_unexplored:eucalyptus_forest"
 
 [-----------------PEAK_BIOMES--------------------]
 	#peak_biomes
